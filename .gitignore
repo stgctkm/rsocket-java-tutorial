@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
+/tutorial/file-upload/build/
+/tutorial/file-upload/build/classes/java/main/
+/tutorial/file-upload/build/classes/java/test/
+/tutorial/simple-rsocket/build/
+/tutorial/simple-rsocket/build/classes/java/main/
+/tutorial/simple-rsocket/build/classes/java/test/
+/tutorial/web-socket/build/
+/tutorial/web-socket/build/classes/java/main/
+/tutorial/web-socket/front/node_modules/

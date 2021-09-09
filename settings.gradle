@@ -1,0 +1,6 @@
+rootProject.name = 'rsocket-java-tutorial'
+
+
+include ':tutorial:simple-rsocket'
+include ':tutorial:file-upload'
+include ':tutorial:web-socket'
